@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VehicleOwner</string>
+    <string name="stay_with_your_friends">Stay connected with your friends and family</string>
+    <string name="secure_private_messaging">Secure, private messaging</string>
+    <string name="get_started">Get Started</string>
+    <string name="add_story">Add Story</string>
+    <string name="online">Online</string>
+    <string name="type_message">Type Message</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">WhoIsCar</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>

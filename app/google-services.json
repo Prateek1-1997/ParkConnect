@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "211843575007",
+    "project_id": "vehicleowner-69680",
+    "storage_bucket": "vehicleowner-69680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211843575007:android:efee6d89264a8df78c4d6a",
+        "android_client_info": {
+          "package_name": "com.vehicle.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211843575007-c6uidcjc092g42buc63dhju4srv2f06o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vehicle.owner",
+            "certificate_hash": "45d4bd42778b7cb5c342efb82ac35d7eabd9b4fc"
+          }
+        },
+        {
+          "client_id": "211843575007-k0tte8jrsu8a6jfe5728fii9lqetj6q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vehicle.owner",
+            "certificate_hash": "fa73f13c492c53befb60b1d183b0f33939479906"
+          }
+        },
+        {
+          "client_id": "211843575007-lvt56002r49ev68br8kt8vpk1jji2scg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vehicle.owner",
+            "certificate_hash": "417fefbb1dbfd67ee411b0ced22bb60b3d9aa106"
+          }
+        },
+        {
+          "client_id": "211843575007-km8hmh13mi7fabgsedc576l5r5isb7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCz3DAv0CCOUG3T2Xv-5tHwlzpstjsq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211843575007-km8hmh13mi7fabgsedc576l5r5isb7h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

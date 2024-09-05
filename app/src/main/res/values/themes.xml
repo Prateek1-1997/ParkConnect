@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WhoIsCar" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.App.WhoIsCar.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+        <item name="postSplashScreenTheme">@style/Theme.WhoIsCar</item>
+    </style>
+</resources>
